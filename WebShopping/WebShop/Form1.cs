@@ -222,6 +222,7 @@ namespace WebShop
         {
             naruceniProizvodi = 0;
             lblNaruceno.Text = "Naruceni proizvodi: 0";
+            lstGotovaNarudzba.Items.Clear();
 
             for (int i = 0; i < BrojProizvoda; i++)
             {
