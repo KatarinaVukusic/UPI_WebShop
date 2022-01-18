@@ -1,0 +1,59 @@
+C:\Users\Katarina\source\repos\WebShop\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\WebShop\WebShop\obj\Debug\WebShop.frmKosarica.resources
+C:\Users\Katarina\source\repos\WebShop\WebShop\obj\Debug\WebShop.Properties.Resources.resources
+C:\Users\Katarina\source\repos\WebShop\WebShop\obj\Debug\WebShop.csproj.GenerateResource.cache
+C:\Users\Katarina\source\repos\WebShop\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\source\repos\WebShop\WebShop\bin\Debug\WebShop.exe.config
+C:\Users\Katarina\source\repos\WebShop\WebShop\bin\Debug\WebShop.exe
+C:\Users\Katarina\source\repos\WebShop\WebShop\bin\Debug\WebShop.pdb
+C:\Users\Katarina\source\repos\WebShop\WebShop\obj\Debug\WebShop.exe
+C:\Users\Katarina\source\repos\WebShop\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\bin\Debug\WebShop.exe.config
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\bin\Debug\WebShop.exe
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\bin\Debug\WebShop.pdb
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\obj\Debug\WebShop.frmKosarica.resources
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\obj\Debug\WebShop.Properties.Resources.resources
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\obj\Debug\WebShop.csproj.GenerateResource.cache
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\obj\Debug\WebShop.exe
+C:\Users\Katarina\source\repos\WebShop – kopija\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Katarina\source\repos\WebShopping\WebShop\bin\Debug\WebShop.exe.config
+C:\Users\Katarina\source\repos\WebShopping\WebShop\bin\Debug\WebShop.exe
+C:\Users\Katarina\source\repos\WebShopping\WebShop\bin\Debug\WebShop.pdb
+C:\Users\Katarina\source\repos\WebShopping\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\WebShopping\WebShop\obj\Debug\WebShop.frmKosarica.resources
+C:\Users\Katarina\source\repos\WebShopping\WebShop\obj\Debug\WebShop.Properties.Resources.resources
+C:\Users\Katarina\source\repos\WebShopping\WebShop\obj\Debug\WebShop.csproj.GenerateResource.cache
+C:\Users\Katarina\source\repos\WebShopping\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\source\repos\WebShopping\WebShop\obj\Debug\WebShop.exe
+C:\Users\Katarina\source\repos\WebShopping\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\bin\Debug\WebShop.exe.config
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\bin\Debug\WebShop.exe
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\bin\Debug\WebShop.pdb
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\obj\Debug\WebShop.frmKosarica.resources
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\obj\Debug\WebShop.Properties.Resources.resources
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\obj\Debug\WebShop.csproj.GenerateResource.cache
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\obj\Debug\WebShop.exe
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShop\obj\Debug\WebShop.pdb
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\bin\Debug\WebShop.exe.config
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\bin\Debug\WebShop.exe
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\bin\Debug\WebShop.pdb
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.frmKosarica.resources
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.Properties.Resources.resources
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.csproj.GenerateResource.cache
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.exe
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.pdb
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\bin\Debug\WebShop.exe.config
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\bin\Debug\WebShop.exe
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\bin\Debug\WebShop.pdb
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.csprojAssemblyReference.cache
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.frmKosarica.resources
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.Properties.Resources.resources
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.csproj.GenerateResource.cache
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.exe
+C:\Users\Katarina\Desktop\WebShopFinal\WebShopTest\WebShopping\WebShop\obj\Debug\WebShop.pdb

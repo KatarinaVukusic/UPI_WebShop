@@ -1,0 +1,33 @@
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\WebShopTest.dll
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\WebShopTest.pdb
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\WebShop.exe
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\WebShop.pdb
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\WebShop.exe.config
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\obj\Debug\WebShopTest.csprojAssemblyReference.cache
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\obj\Debug\WebShopTest.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\obj\Debug\WebShopTest.csproj.CopyComplete
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\obj\Debug\WebShopTest.dll
+C:\Users\Katarina\Desktop\WebShopping\WebShopping\WebShopTest\obj\Debug\WebShopTest.pdb
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\WebShopTest.dll
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\WebShopTest.pdb
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\WebShop.exe
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\WebShop.pdb
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\WebShop.exe.config
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\obj\Debug\WebShopTest.csprojAssemblyReference.cache
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\obj\Debug\WebShopTest.csproj.CopyComplete
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\obj\Debug\WebShopTest.dll
+D:\Domo\PMF\UVOD U PROGRAMSKO INŽENJERSTVO\Projekt\WebShopTest\WebShopping\WebShopTest\obj\Debug\WebShopTest.pdb
